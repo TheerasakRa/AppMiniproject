@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835928618435",
+    "firebase_url": "https://supercar-8d1b7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "supercar-8d1b7",
+    "storage_bucket": "supercar-8d1b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835928618435:android:18ebff1727c16e94b3f976",
+        "android_client_info": {
+          "package_name": "com.example.appminiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835928618435-n144jkiqmp6rvo7aek76pteqh6lvtlbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkmRXkmm2mW4yG0ACzsYtLq-5kwTOPzmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835928618435-n144jkiqmp6rvo7aek76pteqh6lvtlbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
